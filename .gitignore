@@ -29,9 +29,6 @@ build/
 .DS_Store
 Thumbs.db
 
-# Model files (optional: if you don't want to track them)
-model/*.joblib
-model/*.pkl
 
 # FastAPI / templates / static cache (optional)
 __pycache__/
