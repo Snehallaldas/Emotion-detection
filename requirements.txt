@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+nltk
+wordsegment
+textblob
+scikit-learn
+fastapi
+uvicorn
+jinja2
+python-multipart

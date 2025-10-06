@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.idea/
+.vscode/
+
+# Packages
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files (optional: if you don't want to track them)
+model/*.joblib
+model/*.pkl
+
+# FastAPI / templates / static cache (optional)
+__pycache__/
+*.db
+
+# IDE / editor settings
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+data/*.csv
